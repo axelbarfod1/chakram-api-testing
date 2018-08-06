@@ -1,0 +1,6 @@
+{
+    "environment":{
+        "url": "https://api.mercadolibre.com/catalog_domains"
+    }
+
+}

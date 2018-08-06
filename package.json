@@ -1,0 +1,20 @@
+{
+  "name": "chakram-api-testing-demo",
+  "version": "1.0.0",
+  "description": "demo para SD testing api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "charkram",
+    "rest",
+    "api"
+  ],
+  "devDependencies": {
+    "chakram": "^1.5.0",
+    "mocha": "^5.2.0"
+  },
+  "author": "Axel Barfod",
+  "license": "MIT"
+}
